@@ -1,0 +1,57 @@
+
+ /* Set slider */
+ .carousel-item img {
+  width: 100%;
+  height: 400px;
+  object-fit: cover;
+}
+/* Set slider end */
+/* Apply shadow on hover */
+.custom-shadow {
+  transition: box-shadow 0.2s ease-in-out;
+}
+.custom-shadow:hover {
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.5); 
+}
+/* Apply shadow on hover end */
+
+
+
+.custom-read {
+  background-color: blue;
+  color:white;
+  padding:10px 10px;
+  text-decoration: none;
+  font-size: 20px;
+  border-radius: 5px 5px;
+  
+  
+}
+.custom-read:hover {
+ background-color: #ecdedede;
+ color: #c8853f;  
+ text-decoration: none;
+ border-radius: 5px 5px;
+
+}
+
+/* card hover */
+.custom-card-shadow{
+  transition: box-shadow 0.2s ease-in-out;
+}
+
+.custom-card-shadow:hover{
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+  border-radius: 10px;
+
+}
+
+.custom-client-margin{
+  margin-top: 50px;
+}
+
+
+
+
+
+
